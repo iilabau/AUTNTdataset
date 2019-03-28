@@ -1,6 +1,6 @@
 # AUTNTdataset
 
-Aliah University Text Non-Text (AUTNT) dataset contains component level multi-script text non-text images. There are three-fold utilities of this dataset: (i) component level image classification, (ii) script identification, and (iii) character recognition. Ground truth data are also prepared and included in this repository. Component images are chosen from diverse sources and conditions to ensure unconstrained working environment and applicabilty in practical scenario. 
+Aliah University Text Non-Text (AUTNT) dataset contains component level multi-script text non-text images. There are three-fold utilities of this dataset: (i) component level image classification, (ii) script identification, and (iii) character recognition. Ground truth data are also prepared and included in respective directory. Component images are chosen from diverse sources and conditions to ensure unconstrained working environment and applicabilty in practical scenario. 
 
 ## Dataset Summary
 Total number of component level images: 10771.
