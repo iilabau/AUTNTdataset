@@ -17,9 +17,11 @@ Among all text components of the training set, 3264 components are taken from co
 * Dr. Ayatullah Faruk Mollah, Assistant Professor, Department of Computer Science and Engineering, Aliah University, IIA/27 New Town, Kolkata 700160, India
 
 ## Special Acknowledgment
-Munsi Md Iftabudin, student of PGMCA, Department of Computer Science and Engineering, Aliah University, IIA/27 New Town, Kolkata      700160,   India. 
-Fatema Rahman, student of B.tech 4th year, Department of Computer Science and Engineering, Aliah University, IIA/27 New Town, Kolkata   700160, India.
-Sk. Shamim, student of PGMCA, Department of Computer Science and Engineering, Aliah University, IIA/27 New Town, Kolkata 700160,     India.
+*(i) Munsi Md Iftabudin, student of PGMCA, Department of Computer Science and Engineering, Aliah University, IIA/27 New Town, Kolkata      700160,India. 
+
+*(ii) Fatema Rahman, student of B.tech 4th year, Department of Computer Science and Engineering, Aliah University, IIA/27 New Town, Kolkata   700160, India.
+
+*(iii) Sk. Shamim, student of PGMCA, Department of Computer Science and Engineering, Aliah University, IIA/27 New Town, Kolkata 700160,     India.
 
 
 
