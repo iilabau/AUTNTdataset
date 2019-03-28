@@ -23,7 +23,4 @@ Among all text components of the training set, 3264 components are taken from co
 
 (iii) Sk. Shamim, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 New Town, Kolkata 700160, India.
 
-
-
-
 Contact: iilab.cse@gmail.com
