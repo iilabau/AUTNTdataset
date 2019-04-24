@@ -26,7 +26,7 @@ Among all text components of the training set, 3264 components are taken from co
                      -Bengali: Training set- 1011, Test set - 251, Total -1262 
                       -Devanagari: Training set - 280, Test set - 71, Total - 351  
                               
-  * 2. Non-text
+      * 2. Non-text
   
                 Scene/Document type:
                       Training set - 2305, Test set - 576, Total - 2881
