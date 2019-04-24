@@ -12,9 +12,9 @@ In the test set, 1576 text and 576 non-text components along with ground truths 
 
 Among all text components of the training set, 3264 components are taken from complex document images and the rest 3050 components are taken from natural indoor/outdoor sources. Dataset contains multi-script text components viz. Latin, Devanagari and Bengali. Components are scale invariant and multi oriented in nature.  Component images are having near-homogenous as well as complex background with uneven illumination effects.
 
-* Object Type:
+ Object Type:
 
-             1.Text 
+            * 1.Text 
              
                  (i) Document type
                          Script:
@@ -28,7 +28,7 @@ Among all text components of the training set, 3264 components are taken from co
                               -Bengali: Training set- 1011, Test set - 251, Total -1262 
                               -Devanagari: Training set - 280, Test set - 71, Total - 351  
                               
-             2.Non-text
+            * 2.Non-text
                      Scene/Document type:
                              Training set - 2305, Test set - 576, Total - 2881
 
