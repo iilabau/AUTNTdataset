@@ -11,10 +11,8 @@ Dataset is divided into 5:1 ratio for training and test set. In the training set
 In the test set, 1576 text and 576 non-text components along with ground truths are present.
 
 Among all text components of the training set, 3264 components are taken from complex document images and the rest 3050 components are taken from natural indoor/outdoor sources. Dataset contains multi-script text components viz. Latin, Devanagari and Bengali. Components are scale invariant and multi oriented in nature.  Component images are having near-homogenous as well as complex background with uneven illumination effects.
-# A brief outline of our prposed AUTNT dataset (Distribution of script-wise text components from both document and
-# scene image categories as well as non-text images are shown)
 
- Object Type: 1.Text 
+Object Type: 1.Text 
                   (i) Document type
                          Script:
                               -Latin : Training set- 1258, Test set - 314, total - 1572
