@@ -31,6 +31,13 @@ Among all text components of the training set, 3264 components are taken from co
                 Scene/Document type:
                       Training set - 2305, Test set - 576, Total - 2881
 
+
+
+## Relevant Paper
+The following paper may be cited while referring to this dataset.
+* T. Khan, A. F. Mollah, “AUTNT - A component level dataset for text non-text classification and benchmarking with novel script invariant feature descriptors and D-CNN”, Multimedia Tools and Applications, 2019 (in press).
+
+
 ## Contributors
 * Tauseef Khan, PhD Scholar, Department of Computer Science and Engineering, Aliah University, IIA/27 New Town, Kolkata 700160, India
 * Dr. Ayatullah Faruk Mollah, Assistant Professor, Department of Computer Science and Engineering, Aliah University, IIA/27 New Town, Kolkata 700160, India
