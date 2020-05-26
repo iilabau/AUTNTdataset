@@ -39,17 +39,17 @@ The following paper may be cited while referring to this dataset.
 
 
 ## Contributors
-(i) Tauseef Khan, Senuior Research Fellow, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
+Tauseef Khan, Senuior Research Fellow, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
 
-(ii) Rahamatulla, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
+Rahamatulla, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
 
-(iii) Munsi Md Iftabudin, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
+Munsi Md Iftabudin, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
 
-(iv) Mst. Fatema Rahman, B.Tech Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
+Mst. Fatema Rahman, B.Tech Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
 
-(v) Sk. Shamim, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
+Sk. Shamim, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
 
-(vi) Dr. Ayatullah Faruk Mollah, Assistant Professor, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
+Dr. Ayatullah Faruk Mollah, Assistant Professor, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
 
 
 Contact: iilab.cse@gmail.com
