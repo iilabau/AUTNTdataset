@@ -35,7 +35,7 @@ Among all text components of the training set, 3264 components are taken from co
 
 ### Relevant Paper(s)
 The following paper may be cited while referring to this dataset.
-* T. Khan, A. F. Mollah, “AUTNT - A component level dataset for text non-text classification and benchmarking with novel script invariant feature descriptors and D-CNN”, Multimedia Tools and Applications, vol. 78, no. 22, pp. 32159–32186, 2019.
+> T. Khan, A. F. Mollah, “AUTNT - A component level dataset for text non-text classification and benchmarking with novel script invariant feature descriptors and D-CNN”, Multimedia Tools and Applications, vol. 78, no. 22, pp. 32159–32186, 2019.
 
 
 
