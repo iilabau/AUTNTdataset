@@ -1,9 +1,9 @@
 # AUTNTdataset
 
-Aliah University Text Non-Text (AUTNT) dataset contains component level multi-script text non-text images. There are three-fold utilities of this dataset: (i) component level image classification, (ii) script identification, and (iii) character recognition. Ground truth data are also prepared and included in respective directory. Component images are chosen from diverse sources and conditions to ensure unconstrained working environment and applicabilty in practical scenario. 
+Aliah University Text Non-Text (AUTNT) dataset contains component level multi-script text as well as non-text images. There are three-fold utilities of this dataset: (i) component level image classification, (ii) script identification, and (iii) character recognition. Ground truth data are also prepared and included in respective directory. Component images are chosen from diverse sources and conditions to ensure unconstrained working environment and applicabilty in practical scenario. 
 
-## Dataset Summary
-Total number of component level images: 10771.
+### Dataset Summary
+Total number of component images: 10771.
 Text component images: 7890.
 Non-text component images: 2881.
 Dataset is divided into two category based on source images viz. complex documnet level text components and Scene level text components along with non-text components.
@@ -14,31 +14,32 @@ Among all text components of the training set, 3264 components are taken from co
 
   1.Text
 
-         (i) Document type
-                     Script:
+        (i) Document type
+                  Script:
                         -Latin : Training set- 1258, Test set - 314, total - 1572
                         -Bengali: Training set- 1002, Test set - 251, Total -1253 
                         -Devanagari: Training set - 1004, Test set - 250, Total - 1254  
                         
        (ii) Scene type
-                  script:
-                     -Latin : Training set- 1759, Test set - 439, total - 2198
-                     -Bengali: Training set- 1011, Test set - 251, Total -1262 
-                      -Devanagari: Training set - 280, Test set - 71, Total - 351  
+                  Script:
+                        -Latin : Training set- 1759, Test set - 439, total - 2198
+                        -Bengali: Training set- 1011, Test set - 251, Total -1262 
+                        -Devanagari: Training set - 280, Test set - 71, Total - 351  
                               
    2. Non-text
   
-                Scene/Document type:
-                      Training set - 2305, Test set - 576, Total - 2881
+            Scene/Document type:
+                  Training set - 2305, Test set - 576, Total - 2881
 
 
 
-## Relevant Paper
+### Relevant Paper(s)
 The following paper may be cited while referring to this dataset.
 * T. Khan, A. F. Mollah, “AUTNT - A component level dataset for text non-text classification and benchmarking with novel script invariant feature descriptors and D-CNN”, Multimedia Tools and Applications, vol. 78, no. 22, pp. 32159–32186, 2019.
 
 
-## Contributors
+
+### Contributors
 Tauseef Khan, Senuior Research Fellow, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
 
 Rahamatulla, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
@@ -52,4 +53,7 @@ Sk. Shamim, PGMCA Student, Department of Computer Science and Engineering, Aliah
 Dr. Ayatullah Faruk Mollah, Assistant Professor, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
 
 
-Contact: iilab.cse@gmail.com
+
+### Contact Info
+Email: tauseef.hit2013@gmail.com (Tauseef Khan)
+Alternate Email: iilab.cse@gmail.com (Lab)
