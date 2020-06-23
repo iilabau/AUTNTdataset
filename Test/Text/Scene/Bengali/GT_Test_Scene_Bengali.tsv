@@ -1,4 +1,4 @@
-ImageName	Component	Script	Text
+﻿ImageName	Component	Script	Text
 img0001.png	Text	Bengali	"সৃষ্টিসুখ"
 img0002.png	Text	Bengali	"গুরুচণ্ডা৯"
 img0003.png	Text	Bengali	"দপ্তর"
@@ -205,8 +205,8 @@ img0203.png	Text	Bengali	"আবিষ্কার"
 img0204.png	Text	Bengali	"মেলা"
 img0205.png	Text	Bengali	"করুন"
 img0206.png	Text	Bengali	"প্রাঙ্গণ"
-img0207.png	Text	Bengali	"করুণাময়ী"
-img0208.png	Text	Bengali	"সত্যা্শ্রয়ী"
+img0207.png	Text	Bengali	"করুণাময়ী,"
+img0208.png	Text	Bengali	"সত্যাশ্রয়ী"
 img0209.png	Text	Bengali	"সবারে"
 img0210.png	Text	Bengali	"করি"
 img0211.png	Text	Bengali	"অনলাইন"
