@@ -37,6 +37,22 @@ Among all text components of the training set, 3264 components are taken from co
 The following paper may be cited while referring to this dataset.
 > T. Khan, A. F. Mollah, “AUTNT - A component level dataset for text non-text classification and benchmarking with novel script invariant feature descriptors and D-CNN”, Multimedia Tools and Applications, vol. 78, no. 22, pp. 32159–32186, 2019.
 
+### Benchmark Results
+Text (Document and Scene-type combined) Non-Text Classification
+
+Text (Document-type) Non-Text Classification
+| Precision | Recall | F-Score | Accuracy | RMSE |
+| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+
+Text (Scene-type) Non-Text Classification
+| Precision | Recall | F-Score | Accuracy | RMSE |
+| --- | --- | --- | --- | --- |
+
+
+Script Identification
+| Precision | Recall | F-Score | Accuracy | RMSE |
+| --- | --- | --- | --- | --- |
 
 
 ### Contributors
