@@ -37,6 +37,7 @@ Among all text components of the training set, 3264 components are taken from co
 The following paper may be cited while referring to this dataset.
 > T. Khan, A. F. Mollah, “AUTNT - A component level dataset for text non-text classification and benchmarking with novel script invariant feature descriptors and D-CNN”, Multimedia Tools and Applications, vol. 78, no. 22, pp. 32159–32186, 2019.
 
+
 ### Benchmark Results on Text Non-Text Classification
 **Text (Document-type) Non-Text Classification**
 | Method | Precision | Recall | F-Score | Accuracy | RMSE |
@@ -52,6 +53,7 @@ The following paper may be cited while referring to this dataset.
 | Method | Precision | Recall | F-Score | Accuracy | RMSE |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | Khan et al. [1] | 0.987 | 0.961 | 0.974 | 96.28 | - |
+
 
 ### Benchmark Results on Script Identification
 **Script Identification (Document-type Components)**
@@ -69,6 +71,7 @@ The following paper may be cited while referring to this dataset.
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | Khan et al. [2] | 0.9149 | 0.9193 | 0.9169 | 92.51 | - |
 
+**References**
 1. T. Khan and A. F. Mollah, “AUTNT - A component level dataset for text non-text classification and benchmarking with novel script invariant feature descriptors and D-CNN”, Multimedia Tools and Applications, vol. 78, no. 22, pp. 32159–32186, 2019.
 2. T. Khan and A. F. Mollah, “Component level script classification benchmark with CNN on AUTNT dataset”, In: Bhattacharjee D., Kole D.K., Dey N., Basu S., Plewczynski D. (Eds.) Proceedings of International Conference on Frontiers in Computing and Systems, Springer Nature, AISC, vol. 1255, pp. 225-234, Nov 24, 2020, ISBN: 978-981-15-7833-5.
 
