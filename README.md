@@ -76,21 +76,13 @@ The following paper may be cited while referring to this dataset.
 2. T. Khan and A. F. Mollah, “Component level script classification benchmark with CNN on AUTNT dataset”, In: Bhattacharjee D., Kole D.K., Dey N., Basu S., Plewczynski D. (Eds.) Proceedings of International Conference on Frontiers in Computing and Systems, Springer Nature, AISC, vol. 1255, pp. 225-234, Nov 24, 2020, ISBN: 978-981-15-7833-5.
 
 ### Contributors
-Tauseef Khan, Senuior Research Fellow, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
-
-Rahamatulla, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
-
-Munsi Md Iftabudin, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
-
-Mst. Fatema Rahman, B.Tech Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
-
-Sk. Shamim, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
-
-Dr. Ayatullah Faruk Mollah, Assistant Professor, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
-
+- **Tauseef Khan**, Senior Research Fellow, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
+- **Rahamatulla**, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
+- **Munsi Md Iftabudin**, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
+- **Mst Fatema Rahman**, B.Tech Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
+- **Sk Shamim**, PGMCA Student, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India.
+- **Dr. Ayatullah Faruk Mollah**, Assistant Professor, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
 
 
 ### Contact Info
 Email: tauseef.hit2013@gmail.com (Tauseef Khan)
-
-Alternate Email: iilab.cse@gmail.com (Lab)
